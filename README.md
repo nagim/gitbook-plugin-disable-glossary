@@ -2,7 +2,7 @@
 
 This is a plugin for Gitbook that disables glossary links in various elements (h1, h2, em, a).
 
-Install it using: ```$ npm install gitbook-plugin-codeblock-disable-glossary```
+Install it using: ```$ npm install gitbook-plugin-disable-glossary```
 
 Add to a Gitbook by including the following in `book.json`.
 
