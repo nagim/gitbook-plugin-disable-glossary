@@ -1,5 +1,5 @@
 {
-    "name": "gitbook-plugin-codeblock-disable-glossary",
+    "name": "gitbook-plugin-disable-glossary",
     "description": "Gitbook plugin to disable glossary links in various elements.",
     "main": "index.js",
     "version": "0.0.1",
